@@ -1,0 +1,8 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Rfbb,Vishay-Dale,CRCW0402137KFKED,1,0.01,3,Resistance: 137 kΩ  Tolerance: 1.0%  Power: 63 mW  
+CvinA,Taiyo Yuden,EMK107B7104KA-T,1,0.01,4.68,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 16 V  ESR: 1 mΩ  Package: 0603  
+Cin,Taiyo Yuden,MSASL219LB5226MTNA01,1,0.07115,6.75,Cap: 22 µF  Total Derated Cap: 9.1 µF  VDC: 10 V  ESR: 3.64 mΩ  Package: 0805  
+Cout,TDK,C1608X5R0J226M080AC,3,0.07224,4.68,Cap: 22 µF  Total Derated Cap: 21 µF  VDC: 6.3 V  ESR: 3.71 mΩ  Package: 0603  
+L1,MuRata Toko,DFE252012F-1R0M=P2,1,0.13,10.5,L: 1 µH  DCR: 40 mΩ  IDC: 3.3 A  
+U1,Texas Instruments,TPS63020DSJR,1,1.265,20,
+Rfbt,Vishay-Dale,CRCW0603768KFKEA,1,0.01,4.68,Resistance: 768 kΩ  Tolerance: 1.0%  Power: 100 mW  
