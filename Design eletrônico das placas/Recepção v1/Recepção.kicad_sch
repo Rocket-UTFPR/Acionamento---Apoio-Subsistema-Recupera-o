@@ -3590,10 +3590,22 @@
 		(uuid "40e0757b-a2ba-46cb-963c-175588aedfa1")
 	)
 	(junction
+		(at 236.22 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43cec9d1-9575-4edb-8b55-31e517561d1a")
+	)
+	(junction
 		(at 140.97 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "487b4e41-af02-4916-b5a9-736ec1ab36e2")
+	)
+	(junction
+		(at 236.22 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4e2ea9b0-f619-49db-befd-e632c53157cf")
 	)
 	(junction
 		(at 222.25 83.82)
@@ -3618,12 +3630,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73876bb0-181f-4fdc-85ba-00c47849991d")
-	)
-	(junction
-		(at 236.22 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7ae22206-2f34-43e0-b555-9d061fec0881")
 	)
 	(junction
 		(at 220.98 54.61)
@@ -3678,12 +3684,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca6abac5-83af-4f8c-bc4f-099ae49ebdb8")
-	)
-	(junction
-		(at 236.22 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "da82a48b-158b-47dc-aef4-0e7be8523d1d")
 	)
 	(junction
 		(at 73.66 34.29)
@@ -4794,7 +4794,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Valvula"
+		(property "Value" "Borne_Valvula"
 			(at 259.08 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5273,7 +5273,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 228.6 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -5583,7 +5583,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Terminal_12V"
+		(property "Value" "Borne_12V"
 			(at 207.01 52.832 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5962,7 +5962,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 222.758 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -6737,7 +6737,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 224.028 91.44 90)
 			(hide yes)
 			(show_name no)
@@ -7121,7 +7121,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "BZX55C5V1"
 			(at 238.76 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
