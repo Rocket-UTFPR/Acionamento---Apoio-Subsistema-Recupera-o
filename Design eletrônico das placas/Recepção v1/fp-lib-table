@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "DEVKIT_V1_ESP32-WROOM-32") (type "KiCad") (uri "${KIPRJMOD}/../0Bibliotecas extras/DEVKIT_V1_ESP32-WROOM-32/ESP32.pretty") (options "") (descr ""))
+	(lib (name "L1_Murata") (type "KiCad") (uri "${KIPRJMOD}/../0Bibliotecas extras/L1 — Murata DFE252012F-1R0M=P2/L1_Murata.pretty") (options "") (descr ""))
+	(lib (name "TPS63020") (type "KiCad") (uri "${KIPRJMOD}/../0Bibliotecas extras/TPS63020DSJR (Controlador)/TPS63020.pretty") (options "") (descr ""))
+)

@@ -4805,7 +4805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Terminal Block Phoenix PT-1,5-2-5.0-H"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
 			(at 256.54 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -5333,7 +5333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1800caee-1821-4c1f-8e5c-a172fe969ecf")
-		(property "Reference" "Rfbb"
+		(property "Reference" "Rfbb1"
 			(at 107.95 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5397,7 +5397,7 @@
 		(instances
 			(project "Recepção"
 				(path "/9a05d7bb-9958-4ec0-b778-c3ba343101a7"
-					(reference "Rfbb")
+					(reference "Rfbb1")
 					(unit 1)
 				)
 			)
@@ -5594,7 +5594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Terminal Block Phoenix PT-1,5-2-5.0-H"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
 			(at 204.47 58.166 90)
 			(hide yes)
 			(show_name no)
@@ -5687,7 +5687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a2c9354-2956-4ad3-b74c-8ee45f6c2dc7")
-		(property "Reference" "Cin"
+		(property "Reference" "Cin1"
 			(at 49.53 64.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5751,7 +5751,7 @@
 		(instances
 			(project "Recepção"
 				(path "/9a05d7bb-9958-4ec0-b778-c3ba343101a7"
-					(reference "Cin")
+					(reference "Cin1")
 					(unit 1)
 				)
 			)
@@ -5858,7 +5858,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47aa5ff0-778b-413a-8021-654194ac6e06")
-		(property "Reference" "CvinA"
+		(property "Reference" "CvinA1"
 			(at 77.47 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5922,7 +5922,7 @@
 		(instances
 			(project "Recepção"
 				(path "/9a05d7bb-9958-4ec0-b778-c3ba343101a7"
-					(reference "CvinA")
+					(reference "CvinA1")
 					(unit 1)
 				)
 			)
@@ -6319,7 +6319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "C15483:VSON-14_L4.0-W3.0-P0.50-BL-EP_TI_DSJ"
+		(property "Footprint" "TPS63020:VSON-14_L4.0-W3.0-P0.50-BL-EP_TI_DSJ"
 			(at 73.66 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6451,7 +6451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97374b80-00dd-4fd9-952d-2e55d46eaf85")
-		(property "Reference" "Cout"
+		(property "Reference" "Cout3"
 			(at 119.38 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6515,7 +6515,7 @@
 		(instances
 			(project "Recepção"
 				(path "/9a05d7bb-9958-4ec0-b778-c3ba343101a7"
-					(reference "Cout")
+					(reference "Cout3")
 					(unit 1)
 				)
 			)
@@ -7211,7 +7211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Murata_DFE252012F:IND_DFE252012F-1R0M=P2_MUR"
+		(property "Footprint" "L1_Murata:IND_DFE252012F-1R0M=P2_MUR"
 			(at 73.66 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7432,7 +7432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb04db70-0ef9-47ad-88dc-6d9381ca5ce1")
-		(property "Reference" "Rfbt"
+		(property "Reference" "Rfbt1"
 			(at 107.95 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7496,7 +7496,7 @@
 		(instances
 			(project "Recepção"
 				(path "/9a05d7bb-9958-4ec0-b778-c3ba343101a7"
-					(reference "Rfbt")
+					(reference "Rfbt1")
 					(unit 1)
 				)
 			)

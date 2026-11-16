@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "L1 Murata") (type "KiCad") (uri "${KIPRJMOD}/../0Bibliotecas extras/L1 — Murata DFE252012F-1R0M=P2/2026-10-23_10-53-48.kicad_sym") (options "") (descr ""))
+	(lib (name "DEVKIT_V1_ESP32-WROOM-32") (type "KiCad") (uri "${KIPRJMOD}/../0Bibliotecas extras/DEVKIT_V1_ESP32-WROOM-32/DEVKIT_V1_ESP32-WROOM-32.kicad_sym") (options "") (descr ""))
+	(lib (name "TPS63020DSJR") (type "KiCad") (uri "${KIPRJMOD}/../0Bibliotecas extras/TPS63020DSJR (Controlador)/TPS63020DSJR.kicad_sym") (options "") (descr ""))
+)
